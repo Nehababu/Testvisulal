@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             string name = "ankita";
             string city = "bangalore";
+            string Address = "Kr puram";
             Console.WriteLine(name);
         }
     }
